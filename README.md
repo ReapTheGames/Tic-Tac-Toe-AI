@@ -6,6 +6,6 @@ Description for update:
 -------------------------------------------
 Tic Tac Toe against AI!!!
 
-Upcoming "Against AI Update" later!
+Upcoming "Two Player Update" later!
 
 Play avidly against AI in an intense game of tic tac toe.
